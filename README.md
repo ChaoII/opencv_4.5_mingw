@@ -1,8 +1,8 @@
 # opencv_4.5_mingw
-build by mingw   
-CmakeLists.txt 引入方法：   
+`build by mingw`   
+`CmakeLists.txt` 引入方法：   
 添加
-```
+```cmake
 # world 需要指明world模块
 set(OpenCV_DIR ./x64/mingw/staticlib)
 find_package(OpenCV REQUIRED world)
