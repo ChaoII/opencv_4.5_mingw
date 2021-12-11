@@ -12,7 +12,7 @@ include_directories(${OpenCV_INCLUDE_DIRS})
 target_link_libraries(${your_PROTECT} ${OpenCV_LIBS})
 ```
 
-
-- 动态库版本：[百度网盘下载地址](https://pan.baidu.com/s/19oGGwNe4bfZlDoYC1mfXww)密码：`wk6i`
+- 动态库版本(world):[百度 网盘下载地址](https://pan.baidu.com/s/1Oj7Tpz210JvUX_DjbltDIA)密码：`0gdl`
+- 动态库版本(no_world)：[百度网盘下载地址](https://pan.baidu.com/s/1cdN6j5qRdg3oyB1KILrDsg)密码：`mrml`
 - 静态库版本（world）：[百度网盘下载地址](https://pan.baidu.com/s/17HLQ2DDD7qILEnZ5MmGI8g)提取码:`7i8d`
 - 静态库版本（no_world）:[百度网盘下载地址](https://pan.baidu.com/s/192gk_MznqUN1sGUQ5Fueuw)提取码:`e5t5`
