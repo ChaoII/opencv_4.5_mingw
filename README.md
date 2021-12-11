@@ -1,5 +1,5 @@
 # opencv_4.5_mingw
-`build by mingw`   
+`build by mingw`     
 全部为x64这么高版本的没什么人用32位吧 
 `CmakeLists.txt` 引入方法：   
 添加
